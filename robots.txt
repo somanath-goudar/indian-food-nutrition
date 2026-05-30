@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indian-food-nutrition.vercel.app/sitemap.xml
